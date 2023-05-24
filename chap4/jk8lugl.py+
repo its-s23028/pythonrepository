@@ -1,0 +1,3 @@
+n = input('type a number')
+n = int(n)
+result = 

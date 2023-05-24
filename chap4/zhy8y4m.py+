@@ -1,0 +1,6 @@
+def even_add(x):
+    return 'even' if x % 2 == 0 else 'odd'
+
+
+even_add(2)
+even_add(3)
